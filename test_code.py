@@ -11,4 +11,4 @@ def print_numbers():
 if __name__ == "__main__":
     print_numbers()
 
-# изменение 2.1
+# изменение 2.2
